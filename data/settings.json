@@ -1,6 +1,15 @@
 {
   "sidebar": [
     {
+      "section": "Test",
+      "topics": [
+        {
+          "title": "Just Another Topic",
+          "slug": "SLG"
+        }
+      ]
+    },
+    {
       "section": "Introduction",
       "topics": [
         {
